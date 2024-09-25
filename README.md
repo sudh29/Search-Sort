@@ -1,6 +1,6 @@
 # Search-Sort
 
-- [0 First and last occurrences of x](0_First_and_last_occurrences_of_x,py)
+- [0 First and last occurrences of x](0_First_and_last_occurrences_of_x.py)
 
 - [1 Value equal to index value](1_Value_equal_to_index_value.py)
 
